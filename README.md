@@ -1,4 +1,4 @@
-# xohw23-141
+# AI-augumented barcode reader using Xilinx Kria KV260
 Repository for Xilinx OpenHW Competition 2023. Team from Transylvania University from Brasov.
 
 ## Requirement:
