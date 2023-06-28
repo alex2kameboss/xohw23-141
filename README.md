@@ -22,7 +22,7 @@ Repository for Xilinx OpenHW Competition 2023. Team from Transylvania University
 2. install Kria-PYNQ, [doc](https://github.com/Xilinx/Kria-PYNQ#2-install-pynq)
 3. clone this repo, *git clone --recurse-submodules -j8 https://github.com/alex2kameboss/xohw23-141.git*
 4. connect with ssh X11 forwarding at KV260
-### On other machine
+### On ssh session
 5. add X11 forwarding to root
 ```bash
 xauth list
@@ -32,4 +32,5 @@ export DISPLAY=localhost:10
 xauth add <result form xauth list>
 ```
 6. cd xohw23-141/board
-7. python3 main.py
+7. connect USB webcam
+8. python3 main_sequencial.py
