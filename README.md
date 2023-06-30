@@ -1,5 +1,13 @@
 # AI-augumented barcode reader using Xilinx Kria KV260
-Repository for Xilinx OpenHW Competition 2023. Team from Transylvania University from Brasov.
+In the last few years, self-check-out and automatic check-out solutions have gained interest in the retail industry. We design a solution that approaches the problem in a new and different manner. Our project consists of developing an AI-based application that uses a camera to read EAN-13 barcodes, track them, and automatically add them to the bill. This project aims to enhance FPGA capabilities for AI-accelerated low-power portable systems using the Xilinx Kria KV260. Using the power of AI, this project aims to streamline processes and improve efficiency in everyday life. [Youtube demo.](https://youtu.be/-n1rPmGHM_w)
+
+## Team
+University name: "Transilvania" University of Brasov 
+1. Participant: Alexandru Puşcaşu, Email: alexandru.puscasu@student.unitbv.ro
+2. Participant: Ioana Ailenei, Email: ioana.ailenei@student.unitbv.ro
+3. Participant: Mihai Miu, Email: mihai.miu@student.unitbv.ro
+
+**Supervisor name**: Cătălin Ciobanu, Email: catalin.ciobanu@unitbv.ro
 
 ## Requirement:
 - Vitis 2021.2
